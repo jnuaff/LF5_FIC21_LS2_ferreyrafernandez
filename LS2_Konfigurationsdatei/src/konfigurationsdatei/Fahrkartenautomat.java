@@ -1,5 +1,5 @@
 package konfigurationsdatei;
-
+// Änderung für second commit. 
 import java.util.Scanner;
 
 class Fahrkartenautomat {
